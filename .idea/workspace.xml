@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5604af9-af8c-4b7c-9970-e819aa88ec02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dSFJot7A7lFU1qjoL4sfUUnD4p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/datasets/backup_data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data/datasets" />
+      <recent name="$PROJECT_DIR$/data/checkpoints" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/datasets/backup_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.calculate_mean_variance">
+    <configuration name="calculate_mean_variance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proSR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculate_mean_variance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resize_images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proSR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resize_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proSR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.calculate_mean_variance" />
+        <item itemvalue="Python.calculate_mean_variance" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.resize_images" />
+        <item itemvalue="Python.resize_images" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5604af9-af8c-4b7c-9970-e819aa88ec02" name="Default Changelist" comment="" />
+      <created>1592410517588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592410517588</updated>
+      <workItem from="1592410524633" duration="14034000" />
+      <workItem from="1592519776492" duration="695000" />
+      <workItem from="1592533912259" duration="4188000" />
+      <workItem from="1592598254708" duration="2295000" />
+      <workItem from="1592859655633" duration="8888000" />
+      <workItem from="1592934974712" duration="2600000" />
+      <workItem from="1592945322688" duration="17218000" />
+      <workItem from="1593409964403" duration="1461000" />
+      <workItem from="1593447472105" duration="3837000" />
+      <workItem from="1593540036826" duration="8572000" />
+      <workItem from="1593555790078" duration="11530000" />
+      <workItem from="1593637671749" duration="4321000" />
+      <workItem from="1593659281544" duration="109000" />
+      <workItem from="1593660238013" duration="1338000" />
+      <workItem from="1593661630748" duration="254000" />
+      <workItem from="1593662122475" duration="25000" />
+      <workItem from="1593712157663" duration="733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="163" key="#Deployment" timestamp="1592413102387">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="440" y="163" key="#Deployment/0.23.1680.954@0.23.1680.954" timestamp="1592413102387" />
+    <state x="551" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593568965444">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="551" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.949@0.23.1680.949" timestamp="1593568965444" />
+    <state x="551" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.954@0.23.1680.954" timestamp="1592877880751" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom" timestamp="1593569896194">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1593569896194" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1593540431125" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1593548084201" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center" timestamp="1593569896194">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1593569896194" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1593540431125" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1593548084200" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left" timestamp="1593569896193">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1593569896193" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1593540431124" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1593548084200" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right" timestamp="1593569896194">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1593569896194" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1593540431125" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1593548084201" />
+    <state x="341" y="136" key="SettingsEditor" timestamp="1593542636747">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="341" y="136" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1593542196446" />
+    <state x="341" y="136" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1593542636747" />
+    <state x="341" y="136" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1592410749727" />
+    <state x="155" y="196" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1592413057762">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="155" y="196" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.23.1680.954@0.23.1680.954" timestamp="1592413057762" />
+    <state x="578" y="234" width="354" height="525" key="ftp.server.browser" timestamp="1592413096282">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="578" y="234" width="354" height="525" key="ftp.server.browser/0.23.1680.954@0.23.1680.954" timestamp="1592413096282" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1593057781905">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1593057781905" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proSR$train.coverage" NAME="train Coverage Results" MODIFIED="1593548078256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/proSR$calculate_mean_variance.coverage" NAME="calculate_mean_variance Coverage Results" MODIFIED="1593563339284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/datasets" />
+    <SUITE FILE_PATH="coverage/proSR$resize_images.coverage" NAME="resize_images Coverage Results" MODIFIED="1593540413874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
